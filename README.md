@@ -55,7 +55,7 @@ To use these JARs:
 1. Download the JARs from the links provided above
 2. Add the JARs to your project's classpath
 
-### [ProGuard][proguard]
+## [ProGuard][proguard] compatibility
 
 If you're planning on using ProGuard, make sure that you exclude the Stripe
 client library. You can do this by adding the following to your `proguard.cfg`
